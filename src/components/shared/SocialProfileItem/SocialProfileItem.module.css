@@ -1,0 +1,21 @@
+.item {
+  padding: 25px 17px;
+
+  width: 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  margin-bottom: 5px;
+
+  font-size: 15px;
+  color: rgb(151, 151, 151);
+}
+
+.quantity {
+  font-size: 17px;
+  font-weight: 500;
+}
